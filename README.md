@@ -2,9 +2,9 @@
 
 profiles REST API course code.
 
-# Build a Backend REST API with Python & Django - Beginner
+# Build a Backend REST API with Python & Django
 
-This is the supplementary cheat sheet document for our course: [Build a Backend REST API with Python & Django - Beginner](https://www.udemy.com/django-python/?couponCode=2019UPDATECHEATSHEET)
+This is the supplementary cheat sheet document:
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 

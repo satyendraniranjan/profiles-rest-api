@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="27e05503-373d-4438-855e-cd29220dc428" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles_api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_api/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,14 +41,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="LICENSE" value="19" />
-          <entry key="md" value="56" />
+          <entry key="md" value="57" />
           <entry key="py" value="426" />
           <entry key="txt" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="56" />
+          <entry key="Markdown" value="57" />
           <entry key="PLAIN_TEXT" value="58" />
           <entry key="Python" value="426" />
         </counts>
@@ -60,8 +61,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="4773">
-                <caret line="214" lean-forward="true" selection-start-line="214" selection-end-line="214" />
+              <first_editor relative-caret-position="162">
+                <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
               </first_editor>
               <second_editor />
             </state>
@@ -176,7 +177,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="width" value="1366" />
     <option name="height" value="728" />
   </component>
@@ -238,7 +239,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -362,8 +363,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="4773">
-            <caret line="214" lean-forward="true" selection-start-line="214" selection-end-line="214" />
+          <first_editor relative-caret-position="162">
+            <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
           </first_editor>
           <second_editor />
         </state>
