@@ -1,7 +1,3 @@
-# Profile REST API 
-
-profiles REST API course code.
-
 # Build a Backend REST API with Python & Django
 
 This is the supplementary cheat sheet document:
